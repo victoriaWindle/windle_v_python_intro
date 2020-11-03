@@ -7,3 +7,4 @@
 ## Author
 
 ## License
+MIT
